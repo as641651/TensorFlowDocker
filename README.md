@@ -25,12 +25,14 @@ This step is needed only if you modify requirements.txt
 ```
 
 ### Run Container
+If you have GPU
 ```bash
 ./run [PATH_TO_PROJECT_DIR]
 (or)
 #To run in the current directory
 ./run 
 ``` 
+If you dont have a GPU, use **./cpu_run.sh**
 
 ### Run jupyter notebook
 ```bash
