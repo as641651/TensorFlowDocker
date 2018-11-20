@@ -21,6 +21,9 @@ This step is needed only if you modify requirements.txt
 ### Run Container
 ```bash
 ./run [PATH_TO_PROJECT_DIR]
+(or)
+#To run in the current directory
+./run 
 ``` 
 
 ### Run jupyter notebook
