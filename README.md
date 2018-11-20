@@ -21,7 +21,10 @@ Please note, that the prebuilt image already contains almost all the libraries y
 ### Build Image
 This step is needed only if you modify requirements.txt
 ```bash
+#If you have a GPU
 ./build.sh
+#If you dont have a GPU
+./cpu_build.sh
 ```
 
 ### Run Container
