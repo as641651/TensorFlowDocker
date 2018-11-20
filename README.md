@@ -7,10 +7,10 @@ Allow execution of all shell files
 chmod +x *.sh
 ```
 ### Add python dependencies to 
-Please note, that the prebuilt image already contains almost all the libraries you ll need for learning tensorflow. Modify this file only if you find certain library is missing in the environment
 ```bash
 python-requirements/requiresments.txt
 ```
+Please note, that the prebuilt image already contains almost all the libraries you ll need for learning tensorflow. Modify this file only if you find certain library to be missing in the environment
 
 ### Build Image
 This step is needed only if you modify requirements.txt
