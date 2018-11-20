@@ -6,8 +6,14 @@ Allow execution of all shell files
 ```bash
 chmod +x *.sh
 ```
+### Add python dependencies to 
+Please note, that the prebuilt image already contains almost all the libraries you ll need for learning tensorflow. Modify this file only if you find certain library is missing in the environment
+```bash
+python-requirements/requiresments.txt
+```
 
 ### Build Image
+This step is needed only if you modify requirements.txt
 ```bash
 ./build.sh
 ```
@@ -21,6 +27,9 @@ chmod +x *.sh
 ```bash
 jupyter-notebook --allow-root
 ```
-> Jupyter notebook runs on **localhost:8000**
+Copy the token displayed on your terminal, then Open your browser and hit
+```bash
+localhost:8000
+```
 
 > Tensorboard runs on **localhost:6005**
