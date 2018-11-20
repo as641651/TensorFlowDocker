@@ -1,8 +1,14 @@
 ## Usage
 
+### Dependency:
 Install [Docker](https://nbviewer.jupyter.org/github/as641651/GCP/blob/master/Docker/01_Docker_Installation.ipynb)
 
-Allow execution of all shell files
+### Clone this repository
+```bash
+git clone https://github.com/as641651/TensorFlowDocker.git
+cd TensorFlowDocker
+```
+Allow execution of all shell files (if needed)
 ```bash
 chmod +x *.sh
 ```
