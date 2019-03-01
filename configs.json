@@ -1,0 +1,226 @@
+{
+    "00_DevelopingBasicTensorFlow.ipynb": {
+        "code_url": "",
+        "page_id": 201,
+        "page_name": "00_DevelopingBasicTensorFlow",
+        "pdf": false
+    },
+    "00_Tensors.ipynb": {
+        "code_url": "",
+        "page_id": 202,
+        "page_name": "00_Tensors",
+        "pdf": false
+    },
+    "01_Variables_gradients_and_training.ipynb": {
+        "code_url": "",
+        "page_id": 203,
+        "page_name": "01_Variables_gradients_and_training",
+        "pdf": false
+    },
+    "02_Tensorflow_numpy_equivalence.ipynb": {
+        "code_url": "",
+        "page_id": 204,
+        "page_name": "02_Tensorflow_numpy_equivalence",
+        "pdf": false
+    },
+    "03_Image_reading_and_queues_and_stacking.ipynb": {
+        "code_url": "",
+        "page_id": 205,
+        "page_name": "03_Image_reading_and_queues_and_stacking",
+        "pdf": false
+    },
+    "04_Image_processing.ipynb": {
+        "code_url": "",
+        "page_id": 206,
+        "page_name": "04_Image_processing",
+        "pdf": false
+    },
+    "05_tf.data_API.ipynb": {
+        "code_url": "",
+        "page_id": 207,
+        "page_name": "05_tf.data_API",
+        "pdf": false
+    },
+    "06_working_with_multiple_graphs.ipynb": {
+        "code_url": "",
+        "page_id": 208,
+        "page_name": "06_working_with_multiple_graphs",
+        "pdf": false
+    },
+    "07_Regression_example.ipynb": {
+        "code_url": "",
+        "page_id": 209,
+        "page_name": "07_Regression_example",
+        "pdf": false
+    },
+    "08_Classification_PCA_L2reg_example.ipynb": {
+        "code_url": "",
+        "page_id": 210,
+        "page_name": "08_Classification_PCA_L2reg_example",
+        "pdf": false
+    },
+    "09_Saving_and_restoring.ipynb": {
+        "code_url": "",
+        "page_id": 211,
+        "page_name": "09_Saving_and_restoring",
+        "pdf": false
+    },
+    "10_Develop_Eval_Serve_MNISTdense.ipynb": {
+        "code_url": "",
+        "page_id": 212,
+        "page_name": "10_Develop_Eval_Serve_MNISTdense",
+        "pdf": false
+    },
+    "11_Modifying_weights_from_tf.layers.ipynb": {
+        "code_url": "",
+        "page_id": 213,
+        "page_name": "11_Modifying_weights_from_tf.layers",
+        "pdf": false
+    },
+    "12_Visualizing_ConvOutput_and_Filters_LowlevelAPI.ipynb": {
+        "code_url": "",
+        "page_id": 214,
+        "page_name": "12_Visualizing_ConvOutput_and_Filters_LowlevelAPI",
+        "pdf": false
+    },
+    "13_MNIST_CNN_LeNET_Feedable_iter.ipynb": {
+        "code_url": "",
+        "page_id": 215,
+        "page_name": "13_MNIST_CNN_LeNET_Feedable_iter",
+        "pdf": false
+    },
+    "14_CIFAR10_gray_Finetuning.ipynb": {
+        "code_url": "",
+        "page_id": 216,
+        "page_name": "14_CIFAR10_gray_Finetuning",
+        "pdf": false
+    },
+    "15_Transferring_weights_from_selected_layers.ipynb": {
+        "code_url": "",
+        "page_id": 217,
+        "page_name": "15_Transferring_weights_from_selected_layers",
+        "pdf": false
+    },
+    "16_CIFAR10_rgb_usingSelectedFinetuning.ipynb": {
+        "code_url": "",
+        "page_id": 218,
+        "page_name": "16_CIFAR10_rgb_usingSelectedFinetuning",
+        "pdf": false
+    },
+    "17_CIFAR10_AbalationStudy.ipynb": {
+        "code_url": "",
+        "page_id": 219,
+        "page_name": "17_CIFAR10_AbalationStudy",
+        "pdf": false
+    },
+    "18_VanillaRNN_Manually_coded.ipynb": {
+        "code_url": "",
+        "page_id": 220,
+        "page_name": "18_VanillaRNN_Manually_coded",
+        "pdf": false
+    },
+    "19_MultiLayerRNN_Manual_and_KerasAPI.ipynb": {
+        "code_url": "",
+        "page_id": 221,
+        "page_name": "19_MultiLayerRNN_Manual_and_KerasAPI",
+        "pdf": false
+    },
+    "20_RNN_keras_organizedCode.ipynb": {
+        "code_url": "",
+        "page_id": 222,
+        "page_name": "20_RNN_keras_organizedCode",
+        "pdf": false
+    },
+    "21_RNN_Abalation_study.ipynb": {
+        "code_url": "",
+        "page_id": 223,
+        "page_name": "21_RNN_Abalation_study",
+        "pdf": false
+    },
+    "Refreser_Pandas.ipynb": {
+        "code_url": "",
+        "page_id": 224,
+        "page_name": "Refreser_Pandas",
+        "pdf": false
+    },
+    "Refresher_AudioRecordPlay_python.ipynb": {
+        "code_url": "",
+        "page_id": 225,
+        "page_name": "Refresher_AudioRecordPlay_python",
+        "pdf": false
+    },
+    "Refresher_DataVis.ipynb": {
+        "code_url": "",
+        "page_id": 226,
+        "page_name": "Refresher_DataVis",
+        "pdf": false
+    },
+    "Refresher_Numpy.ipynb": {
+        "code_url": "",
+        "page_id": 227,
+        "page_name": "Refresher_Numpy",
+        "pdf": false
+    },
+    "Refresher_WebcamToPython_pygame.ipynb": {
+        "code_url": "",
+        "page_id": 228,
+        "page_name": "Refresher_WebcamToPython_pygame",
+        "pdf": false
+    },
+    "Refresher_pythonOOPAdvanced_Annotations_yield.ipynb": {
+        "code_url": "",
+        "page_id": 229,
+        "page_name": "Refresher_pythonOOPAdvanced_Annotations_yield",
+        "pdf": false
+    },
+    "Refresher_sklearn_preprocessing.ipynb": {
+        "code_url": "",
+        "page_id": 230,
+        "page_name": "Refresher_sklearn_preprocessing",
+        "pdf": false
+    },
+    "Testing_libraries_tensorboard_devices.ipynb": {
+        "code_url": "",
+        "page_id": 231,
+        "page_name": "Testing_libraries_tensorboard_devices",
+        "pdf": false
+    },
+    "author": "Aravind Sankaran",
+    "dir_path": "/home/sankaran/exercise/ML/TensorFlowDocker/exercise",
+    "dir_static": "pics",
+    "file_list": [
+        "00_DevelopingBasicTensorFlow.ipynb",
+        "00_Tensors.ipynb",
+        "01_Variables_gradients_and_training.ipynb",
+        "02_Tensorflow_numpy_equivalence.ipynb",
+        "03_Image_reading_and_queues_and_stacking.ipynb",
+        "04_Image_processing.ipynb",
+        "05_tf.data_API.ipynb",
+        "06_working_with_multiple_graphs.ipynb",
+        "07_Regression_example.ipynb",
+        "08_Classification_PCA_L2reg_example.ipynb",
+        "09_Saving_and_restoring.ipynb",
+        "10_Develop_Eval_Serve_MNISTdense.ipynb",
+        "11_Modifying_weights_from_tf.layers.ipynb",
+        "12_Visualizing_ConvOutput_and_Filters_LowlevelAPI.ipynb",
+        "13_MNIST_CNN_LeNET_Feedable_iter.ipynb",
+        "14_CIFAR10_gray_Finetuning.ipynb",
+        "15_Transferring_weights_from_selected_layers.ipynb",
+        "16_CIFAR10_rgb_usingSelectedFinetuning.ipynb",
+        "17_CIFAR10_AbalationStudy.ipynb",
+        "18_VanillaRNN_Manually_coded.ipynb",
+        "19_MultiLayerRNN_Manual_and_KerasAPI.ipynb",
+        "20_RNN_keras_organizedCode.ipynb",
+        "21_RNN_Abalation_study.ipynb",
+        "Refreser_Pandas.ipynb",
+        "Refresher_AudioRecordPlay_python.ipynb",
+        "Refresher_DataVis.ipynb",
+        "Refresher_Numpy.ipynb",
+        "Refresher_WebcamToPython_pygame.ipynb",
+        "Refresher_pythonOOPAdvanced_Annotations_yield.ipynb",
+        "Refresher_sklearn_preprocessing.ipynb",
+        "Testing_libraries_tensorboard_devices.ipynb"
+    ],
+    "module_id": 200,
+    "module_name": "TensorFlowDocker"
+}
